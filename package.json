@@ -1,7 +1,6 @@
 {
   "name": "react-webpack-starter",
   "version": "1.0.0",
-  "description": "",
   "main": "dist/index.js",
   "types": "./types",
   "scripts": {
@@ -10,8 +9,8 @@
     "buildLib": "tsc"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Jason Gallagher",
+  "license": "MIT",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -34,5 +33,14 @@
     "webpack": "^5.88.2",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wannawatchmecode/react-webpack-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wannawatchmecode/react-webpack-starter/issues"
+  },
+  "homepage": "https://github.com/wannawatchmecode/react-webpack-starter#readme",
+  "description": ""
 }
